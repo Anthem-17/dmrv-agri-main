@@ -187,7 +187,7 @@ function Hero() {
     <section id="overview" style={{ paddingTop:70, background:"#ffffff", backgroundImage:"radial-gradient(circle, rgba(168,85,247,0.06) 1px, transparent 1px)", backgroundSize:"26px 26px", position:"relative", overflow:"hidden" }}>
       <div style={{ position:"absolute", left:-60, top:20, width:300, height:300, borderRadius:"50%", background:"rgba(167,139,250,0.12)", filter:"blur(70px)", pointerEvents:"none" }}/>
       <div style={{ position:"absolute", right:-40, top:60, width:280, height:280, borderRadius:"50%", background:"rgba(192,132,252,0.1)", filter:"blur(70px)", pointerEvents:"none" }}/>
-      <div style={{ maxWidth:1180, margin:"0 auto", display:"grid", gridTemplateColumns:"1fr 1fr", gap:"2.5rem", alignItems:"start", padding:"3.5rem 2rem 4rem", position:"relative" }}>
+      <div style={{ maxWidth:1180, margin:"0 auto", display:"grid", gridTemplateColumns:"1.7fr 1fr", gap:"3rem", alignItems:"start", padding:"5.5rem 2rem 7rem", position:"relative" }}>
         <div>
           <Pill dot>Agriculture dMRV — Live</Pill>
           <H as="h1" style={{ marginTop:22, fontSize:"2.85rem", lineHeight:1.1 }}>
